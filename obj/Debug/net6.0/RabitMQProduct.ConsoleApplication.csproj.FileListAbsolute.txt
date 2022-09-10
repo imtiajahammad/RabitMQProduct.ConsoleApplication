@@ -1,0 +1,17 @@
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabitMQProduct.ConsoleApplication
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabitMQProduct.ConsoleApplication.deps.json
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabitMQProduct.ConsoleApplication.runtimeconfig.json
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabitMQProduct.ConsoleApplication.dll
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabitMQProduct.ConsoleApplication.pdb
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.AssemblyInfo.cs
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.dll
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/refint/RabitMQProduct.ConsoleApplication.dll
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.pdb
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.genruntimeconfig.cache
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/ref/RabitMQProduct.ConsoleApplication.dll
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/imtiajahammad/Development/dotnetCore/RabitMQProduct.ConsoleApplication/obj/Debug/net6.0/RabitMQProduct.ConsoleApplication.csproj.CopyComplete
